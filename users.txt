@@ -1,0 +1,4 @@
+{name: shubh,id:123, issuedBooks: [23]}
+{name: abhi,id:12, issuedBooks: []}
+{name: shikhar,id:21212, issuedBooks: []}
+{name: siddharth,id:987, issuedBooks: [13,,18,]}

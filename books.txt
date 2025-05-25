@@ -1,0 +1,31 @@
+{id: 1, name: The Alchemist, author: Paulo Coelho, isIssued: false}
+{id: 2, name: 1984, author: George Orwell, isIssued: false}
+{id: 3, name: To Kill a Mockingbird, author: Harper Lee, isIssued: false}
+{id: 4, name: The Great Gatsby, author: F. Scott Fitzgerald, isIssued: false}
+{id: 5, name: Moby-Dick, author: Herman Melville, isIssued: false}
+{id: 6, name: War and Peace, author: Leo Tolstoy, isIssued: false}
+{id: 7, name: Pride and Prejudice, author: Jane Austen, isIssued: false}
+{id: 8, name: The Catcher in the Rye, author: J.D. Salinger, isIssued: false}
+{id: 9, name: The Hobbit, author: J.R.R. Tolkien, isIssued: false}
+{id: 10, name: Brave New World, author: Aldous Huxley, isIssued: false}
+{id: 11, name: Crime and Punishment, author: Fyodor Dostoevsky, isIssued: false}
+{id: 12, name: The Lord of the Rings, author: J.R.R. Tolkien, isIssued: true}
+{id: 13, name: Ulysses, author: James Joyce, issuedDate: 19-2-2025, isIssued: true}
+{id: 14, name: The Brothers Karamazov, author: Fyodor Dostoevsky, isIssued: false}
+{id: 15, name: Anna Karenina, author: Leo Tolstoy, isIssued: false}
+{id: 16, name: Wuthering Heights, author: Emily Brontë, isIssued: false}
+{id: 17, name: The Picture of Dorian Gray, author: Oscar Wilde, isIssued: false}
+{id: 18, name: Fahrenheit 451, author: Ray Bradbury, issuedDate: 19-2-2025, isIssued: true}
+{id: 19, name: Don Quixote, author: Miguel de Cervantes, isIssued: false}
+{id: 20, name: The Odyssey, author: Homer, isIssued: false}
+{id: 21, name: Les Misérables, author: Victor Hugo, isIssued: false}
+{id: 22, name: The Count of Monte Cristo, author: Alexandre Dumas, isIssued: false}
+{id: 23, name: One Hundred Years of Solitude, author: Gabriel García Márquez, issuedDate: 19-2-2025, isIssued: true}
+{id: 24, name: The Sound and the Fury, author: William Faulkner, isIssued: false}
+{id: 25, name: The Divine Comedy, author: Dante Alighieri, isIssued: false}
+{id: 26, name: The Iliad, author: Homer, isIssued: false}
+{id: 27, name: Dracula, author: Bram Stoker, isIssued: false}
+{id: 28, name: Frankenstein, author: Mary Shelley, isIssued: false}
+{id: 29, name: The Metamorphosis, author: Franz Kafka, isIssued: false}
+{id: 30, name: Jane Eyre, author: Charlotte Brontë, isIssued: false}
+{id: 31, name: Shkasn, author: kasnakka, isIssued: false}
